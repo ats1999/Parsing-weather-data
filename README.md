@@ -1,5 +1,5 @@
 # Parsing-weather-data
-Aim of this project is to find weather information. Our job in this project is to extract weather information from 4-year data files. Information will be something like this, finding hottest day in a year, finding average temperature in a year, finding 
+Aim of this project is to find weather information. Our job in this project is to extract weather information from  data set. Information will be something like this, finding hottest day in a year, finding average temperature in a year, finding 
 coldest temperature in a year, etc.
 # techonology
 JAVA
