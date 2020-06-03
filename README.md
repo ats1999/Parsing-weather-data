@@ -1,13 +1,9 @@
 # Parsing-weather-data
-Aim of this project is to find weather information. Our job in this project is to extract weather information from  data set. Information will be something like this, finding hottest day in a year, finding average temperature in a year, finding 
-coldest temperature in a year, etc.
+The aim of this project is to find weather information from about 1500 CSV files. Implemented apache common CSV library to operate with CSV files. 
 # techonology
 JAVA
 # dependecy
-<b>1. courserajava.jar</b><br> This jar file helps in opening a dialog box where we can select file.<br><br><b>2. commons-csv-1.7-sources </b> <br> This jar file helps in operating with .csv files.
-
-# adding dependency
-![](/images/Screenshot%20(44).png)
+<b>1. courserajava.jar</b><br> 2. commons-csv-1.7-sources
 
 ## Functionalities
 * Finding information for <b>hottest</b> temperature in a <b>year</b>, <b>day</b> or <b>hour</b>hour. 
@@ -15,7 +11,7 @@ JAVA
 * Finding lowest <b>humidity</b>  in a <b>year</b>, <b>day</b> or <b>hour</b>hour. 
 * Finding average temperature in a day with high <b>humidity</b> and without <b>humidity</b>. 
 
-# example of use
+#  use case
 On runing this program, a menu will appear to you. When you select any one option from that menu, another submenu will appear to you. 
 
 ![](/images/Screenshot%20(38).png)
