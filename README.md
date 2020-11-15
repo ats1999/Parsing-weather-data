@@ -10,14 +10,3 @@ JAVA
 * Finding information for <b>coldest</b> temperature in a <b>year</b>, <b>day</b> or <b>hour</b>hour. 
 * Finding lowest <b>humidity</b>  in a <b>year</b>, <b>day</b> or <b>hour</b>hour. 
 * Finding average temperature in a day with high <b>humidity</b> and without <b>humidity</b>. 
-
-#  use case
-On runing this program, a menu will appear to you. When you select any one option from that menu, another submenu will appear to you. 
-
-![](/images/Screenshot%20(38).png)
-
-On selectig any one option from submenu, a diolog box will appear to you. Now you have to select the file by loacting the file.  
-
-![](/images/Screenshot%20(40).png)
-After selecting the file result will come on your screen.
-![](/images/Screenshot%20(42).png)
